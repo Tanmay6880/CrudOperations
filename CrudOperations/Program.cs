@@ -15,11 +15,16 @@ namespace CrudOperations
         void Display(){
             Console.WriteLine("Display function called");
         }
+        void Tanmay()
+        {
+            Console.WriteLine("Tanmay keleWala😂");
+        }
         static void Main(string[] args)
         {
             Program p = new Program();
             p.Show();
             p.Display();
+            p.tanmay();
         }
     }
 }
