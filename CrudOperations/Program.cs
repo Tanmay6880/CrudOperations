@@ -13,11 +13,7 @@ namespace CrudOperations
             Console.WriteLine("hello");
         }
         void Display(){
-            Console.WriteLine("aahhhhh tanuuuuuuuuuuuu yaaaaa noooooooooooooooooooo");
-        }
-        void Tanmay()
-        {
-            Console.WriteLine("Tanmay");
+            Console.WriteLine("Display method called");
         }
         static void Main(string[] args)
         {
