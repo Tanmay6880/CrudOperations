@@ -19,6 +19,7 @@ namespace CrudOperations
         {
             Program p = new Program();
             p.Show();
+            p.Display();
         }
     }
 }
