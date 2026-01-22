@@ -17,7 +17,7 @@ namespace CrudOperations
         }
         void Tanmay()
         {
-            Console.WriteLine("Tanmay keleWala😂");
+            Console.WriteLine("Tanmay");
         }
         static void Main(string[] args)
         {
