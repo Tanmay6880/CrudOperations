@@ -12,14 +12,11 @@ namespace CrudOperations
         {
             Console.WriteLine("hello");
         }
-        void Display(){
-            Console.WriteLine("हा शहाणा झाला की जग संपणार  kalya lavdyacha   tanyaaa");
-        }
         static void Main(string[] args)
         {
             Program p = new Program();
             p.Show();
-            p.Display();
+           
           
         }
     }
