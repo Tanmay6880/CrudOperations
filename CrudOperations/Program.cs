@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CrudOperations
+{
+    internal class Program
+    {
+        void Show()
+        {
+            Console.WriteLine("hello");
+        }
+        static void Main(string[] args)
+        {
+            Program p = new Program();
+            p.Show();
+        }
+    }
+}
