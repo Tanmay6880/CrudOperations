@@ -12,6 +12,9 @@ namespace CrudOperations
         {
             Console.WriteLine("hello");
         }
+        void Display(){
+            Console.WriteLine("Display function called");
+        }
         static void Main(string[] args)
         {
             Program p = new Program();
